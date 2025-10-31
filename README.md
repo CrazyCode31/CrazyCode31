@@ -44,13 +44,27 @@ I love learning about operating systems, networking, and mathematics — and I�
 ---
 
 ## 🧰 Certifications (in progress)
-![A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blueviolet?style=for-the-badge&logo=comptia&logoColor=white)
-![Linux+](https://img.shields.io/badge/Linux%2B-black?style=for-the-badge&logo=linux&logoColor=white)
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Security Associate](https://img.shields.io/badge/Cisco-Security_Associate-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+## 🎓 Certifications (In Progress)
 
+### ✅ Core Certifications
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-0053A0?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-EA0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-8A2BE2?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%2B-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+### 🔐 Cybersecurity Certifications
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-0056A0?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CASP%2B-3A225D?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+
+### 🌐 Cisco Certifications
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Security_Associate-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 ---
 
 ## 📚 Academic Interests
