@@ -79,7 +79,7 @@ I love learning about operating systems, networking, and mathematics — and I�
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-8A2BE2?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%2B-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img
-src="https://img.shields.io/badge/CompTIA-Server%2B-5A3E85?style=for-the-badge&logo=comptia&logoColor=white"
+src="https://img.shields.io/badge/CompTIA-Server%2B-5A3E85?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
 ### 🔐 Cybersecurity Certifications
