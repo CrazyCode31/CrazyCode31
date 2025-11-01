@@ -126,7 +126,7 @@ I enjoy working with operating systems, networking, and mathematics — always p
 ---
 
 ## ⚙️ Currently Working On
-- 🧠 Windows kernel driver for malware detection  
+- 🧠 A non-AI source code keeper 
 - 🎮 Game prototypes in Unity & Godot  
 - 💻 Studying for CompTIA + Cisco certifications  
 
